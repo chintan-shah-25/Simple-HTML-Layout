@@ -1,0 +1,157 @@
+body{
+
+	background-color: #a64d4d;
+}
+
+header{
+	
+	background-color: #428bca;
+	height: 120px;
+
+}
+
+#header-title{
+	font-family: 'Arvo', serif;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 20px;
+	color:#7a1f00;
+}
+
+p.quote{
+    font-family: 'Lobster', cursive;
+    font-size: 22px;
+	float:right;
+	margin-right: 5px;
+	color:#7a1f00;
+
+}
+nav{
+	background-color: #e6e6e6;
+	height: 40px;
+}
+li{
+
+	display: inline;
+	
+
+}
+li a{
+    
+    font-family: 'Source Sans Pro', sans-serif;
+	text-decoration: none;
+	margin:0px 40px;
+	color:black;
+}
+
+ul.question-links{
+
+	padding: 12px 0px;
+	margin-left: 60px;
+	margin-right: 20px;
+}
+
+section.top-clubs{
+
+	margin: 18px 60px;
+}
+
+h2.section-header{
+
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+	color:black;
+	margin: 4px 20px
+}
+
+div.club-content{
+
+    float: left;
+	width:320px;
+	margin: 4px 20px;
+
+}
+
+.club-image{
+
+	max-width:80%;
+	max-height: 200px;
+	text-align: center;
+	margin: 0px auto;
+	display: block;
+}
+
+.club-info{
+
+ font-family: 'Source Sans Pro', sans-serif;
+ font-size: 15px;
+ color:black;
+ margin-top: 10px;
+
+}
+
+.clearfix{
+
+	clear: both;
+	display: block;
+}
+
+img.epl-logo{
+
+	float: left;
+	margin: 4px 8px;
+	width: 200px;
+	height: 200px;
+}
+
+section.epl-info article.column1.epl-content{
+
+     font-family: 'Source Sans Pro', sans-serif;
+     font-size: 15px;
+     color:black;
+	width:640px;
+	margin:0px 20px;
+}
+
+section.epl-info{
+
+	margin: 30px 60px;
+}
+
+section.epl-info article.column2.epl-content{
+
+	width: 320px;
+	margin:0px 20px;
+
+}
+
+section.epl-info article{
+
+	float:left;
+}
+
+.box-ad{
+
+    font-family: 'Source Sans Pro', sans-serif;
+	border: 5px orange solid;
+	padding:25px 35px;
+	font-size: 30px;
+	margin: 20px 4px;
+	height: auto;
+	text-align: center;
+	width:100%;
+}
+
+#ticket{
+
+	background-color: blue;
+}
+
+#shop{
+	background-color: green;
+}
+
+#standings{
+
+	background-color: red;
+}
